@@ -19,7 +19,7 @@
 - Registration for camp: `registration.md`
 
 ## Guidelines
-- How to develop locally: `local_development.md`
+- [How to develop locally](https://github.com/CodeDesignInitiative/campy-docs/blob/master/local_development.md)
 - How to issue bugs: `issues.md`
 - How to propose a new feature via a pull request: `pull_requests.md`
 
