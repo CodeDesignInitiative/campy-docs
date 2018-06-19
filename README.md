@@ -2,7 +2,7 @@
 
 ## The basics
 - Laravel: `laravel.md`
-- Routing: `routing.md`
+- [Routing](https://github.com/CodeDesignInitiative/campy-docs/blob/master/routing.md)
 - Models: `models.md`
 - Database Migrations: `migrations.md`
 - Controller: `controllers.md`
